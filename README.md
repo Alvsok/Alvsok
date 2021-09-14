@@ -14,12 +14,13 @@
 </a>
 
 <br />
+<br />
 
 My name is Alexander. Currently working as a developer at Auroville Earth Institute.
 
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
+
   
 **Languages and Tools:**  
 
@@ -31,3 +32,4 @@ My name is Alexander. Currently working as a developer at Auroville Earth Instit
 <code><img height="20" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png"></code>
 <code><img height="20" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg"></code>
+
