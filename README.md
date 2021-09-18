@@ -1,3 +1,5 @@
+<base target="_blank">
+
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/AlVadSok">
