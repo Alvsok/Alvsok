@@ -18,7 +18,7 @@
 <br />
 <br />
 
-My name is Alexander. Currently, I am working as a developer at Auroville Earth Institute.
+My name is Alexander. Currently, I'm working as a developer at Auroville Earth Institute.
 
 <br />
 
