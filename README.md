@@ -34,4 +34,5 @@ My name is Alexander. Currently, I'm working as a developer at Auroville Earth I
 <code><img height="20" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"></code>
 <code><img height="20" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png"></code>
 <code><img height="20" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png"></code>
+<code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/1280px-Amazon_Web_Services_Logo.svg.png"></code>
 
