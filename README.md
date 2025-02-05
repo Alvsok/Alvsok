@@ -36,5 +36,7 @@ My name is Alexander. Currently, I'm working as a Django developer.
 <code><img height="20" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code>
 <code><img height="20" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"></code>
 <code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/Moby-logo.png"></code>
+<code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/openai-2.svg"></code>
+<code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/download.png"></code>
 
 
