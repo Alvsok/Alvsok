@@ -38,5 +38,6 @@ My name is Alexander. Currently, I'm working as a Django developer.
 <code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/Moby-logo.png"></code>
 <code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/openai-2.svg"></code>
 <code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/download.png"></code>
+<code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/shopify_logo_black.png"></code>
 
 
