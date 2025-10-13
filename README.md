@@ -18,7 +18,7 @@
 <br />
 <br />
 
-My name is Alexander. Currently, I'm working as a Django developer.
+My name is Alexander. Currently, I'm working as a backend developer specializing in Django, FastAPI, and Shopify app development with AI integration.
 
 <br />
 
