@@ -32,7 +32,6 @@ My name is Alexander. Currently, I'm working as a backend developer specializing
 <code><img height="20" src="https://static.djangoproject.com/img/logos/django-logo-positive.png"></code>
 <code><img height="20" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></code>
 <code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/logor.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png"></code>
 <code><img height="20" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code>
 <code><img height="20" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"></code>
 <code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/Moby-logo.png"></code>
