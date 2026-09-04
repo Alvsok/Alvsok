@@ -39,5 +39,6 @@ My name is Alexander. Currently, I'm working as a backend developer specializing
 <code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/openai-2.svg"></code>
 <code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/download.png"></code>
 <code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/shopify_logo_black.png"></code>
+<code><img height="20" src="https://github.com/Alvsok/Alvsok/blob/main/Woo_logo_color.png"></code>
 
 
